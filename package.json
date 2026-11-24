@@ -5,7 +5,7 @@
   "description": "Control de personal, dotación (uniformes y botas) e incidencias - Grupo Aramo. Página estática (GitHub Pages) + Supabase.",
   "scripts": {
     "test": "node --test",
-    "check": "node --check js/app.js && node --check js/logic.js && node --check js/config.js",
+    "check": "node --check js/app.js && node --check js/logic.js && node --check js/config.js && node --check js/theme.js",
     "serve": "npx --yes http-server -c-1 -p 8080 ."
   }
 }

@@ -127,10 +127,14 @@ document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && $('#moda
 /* =====================================================================
    ACCESO: configuración, login, registro, recuperación
    ===================================================================== */
+const LOGO = '<div class="logo" aria-hidden="true"><svg viewBox="0 0 32 32"><path d="M10 7l3-2h6l3 2 5 3.5-2.5 4.5-2.5-1.3V26H10V13.7L7.5 15 5 10.5z"/></svg></div>';
+const bindTheme = (id) => { const b = document.getElementById(id); if (b) b.onclick = () => window.Theme.toggle(); };
+
 function authShell(inner) {
   $('#hdr').hidden = true;
   closeM();
-  $('#app').innerHTML = `<div class="login"><div class="box"><h1>Control de Personal<small>Grupo Aramo</small></h1>${inner}</div></div>`;
+  $('#app').innerHTML = `<div class="login">${window.Theme.button('th_auth')}<div class="box">${LOGO}<h1>Control de Personal<small>Grupo Aramo</small></h1>${inner}</div></div>`;
+  bindTheme('th_auth');
 }
 
 function vSetup() {
@@ -275,7 +279,10 @@ function render() {
   ({ emp: vEmp, res: vRes, inc: vInc, pen: vPen, adm: vAdm })[tab]();
 }
 function renderUser() {
-  $('#user').innerHTML = `<span title="${esc(ME.email)}">${esc(ME.nombre || ME.email)}</span><span class="tag">${esc(ME.rol)}</span><button class="btn sm" id="logout">Salir</button>`;
+  const nombre = ME.nombre || ME.email;
+  $('#user').innerHTML = `<span title="${esc(ME.email)}">${esc(nombre)}</span><div class="avatar" title="${esc(ME.email)}">${esc(nombre.trim().charAt(0).toUpperCase())}</div>`
+    + `<span class="tag">${esc(ME.rol)}</span>${window.Theme.button('th_app')}<button class="btn sm" id="logout">Salir</button>`;
+  bindTheme('th_app');
   $('#logout').onclick = () => sb.auth.signOut();
   document.body.classList.toggle('ro', !isAdmin());
 }
