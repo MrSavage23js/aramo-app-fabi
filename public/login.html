@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Iniciar sesión · Grupo Aramo</title>
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+<div class="login">
+  <form id="f" autocomplete="on">
+    <h1>Control de Personal<small>Grupo Aramo</small></h1>
+    <label>Usuario<input id="u" name="username" autocomplete="username" required autofocus></label>
+    <label>Contraseña<input id="p" name="password" type="password" autocomplete="current-password" required></label>
+    <p class="err" id="err" role="alert"></p>
+    <button class="btn p" id="go">Entrar</button>
+  </form>
+</div>
+<script src="js/login.js"></script>
+</body>
+</html>

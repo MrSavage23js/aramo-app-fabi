@@ -1,0 +1,1279 @@
+{
+ "_nota": "Datos FICTICIOS de demostración. No corresponden a personas reales.",
+ "emps": [
+  {
+   "nombre": "RAMIREZ ROJAS JUAN",
+   "planta": "VELADORAS",
+   "depto": "PRODUCCION",
+   "puesto": "AYUDANTE GENERAL",
+   "genero": "CABALLERO",
+   "bota": "23",
+   "nota": "Sin dotación",
+   "dot": false,
+   "juegos": [
+    {
+     "talla": "CHICA",
+     "color": "ROJO",
+     "forma": "POLO",
+     "tipo": "CORTA"
+    },
+    {
+     "talla": "CHICA",
+     "color": "ROJO",
+     "forma": "POLO",
+     "tipo": "CORTA"
+    },
+    {
+     "talla": "CHICA",
+     "color": "ROJO",
+     "forma": "POLO",
+     "tipo": "CORTA"
+    }
+   ]
+  },
+  {
+   "nombre": "RUIZ HERNANDEZ LUCIA",
+   "planta": "VELADORAS",
+   "depto": "PRODUCCION",
+   "puesto": "AYUDANTE GENERAL",
+   "genero": "DAMA",
+   "bota": "22",
+   "nota": "",
+   "dot": true,
+   "juegos": [
+    {
+     "talla": "MEDIANA",
+     "color": "ROJO",
+     "forma": "POLO",
+     "tipo": "LARGA"
+    },
+    {
+     "talla": "MEDIANA",
+     "color": "ROJO",
+     "forma": "POLO",
+     "tipo": "LARGA"
+    },
+    {
+     "talla": "MEDIANA",
+     "color": "ROJO",
+     "forma": "POLO",
+     "tipo": "LARGA"
+    }
+   ]
+  },
+  {
+   "nombre": "CRUZ RAMIREZ ELENA",
+   "planta": "VELADORAS",
+   "depto": "PRODUCCION",
+   "puesto": "AYUDANTE GENERAL",
+   "genero": "DAMA",
+   "bota": "23",
+   "nota": "Sin dotación",
+   "dot": false,
+   "juegos": [
+    {
+     "talla": "GRANDE",
+     "color": "ROJO",
+     "forma": "CAMISETA",
+     "tipo": "CORTA"
+    },
+    {
+     "talla": "GRANDE",
+     "color": "ROJO",
+     "forma": "CAMISETA",
+     "tipo": "CORTA"
+    },
+    {
+     "talla": "GRANDE",
+     "color": "ROJO",
+     "forma": "CAMISETA",
+     "tipo": "CORTA"
+    }
+   ]
+  },
+  {
+   "nombre": "VEGA GARCIA LUCIA",
+   "planta": "VELADORAS",
+   "depto": "ADMINISTRATIVO",
+   "puesto": "ADMINISTRATIVO",
+   "genero": "DAMA",
+   "bota": "N/A",
+   "nota": "",
+   "dot": true,
+   "juegos": [
+    {
+     "talla": "EXTRA GRANDE",
+     "color": "ROJO",
+     "forma": "CUELLO REDONDO",
+     "tipo": "LARGA"
+    },
+    {
+     "talla": "EXTRA GRANDE",
+     "color": "ROJO",
+     "forma": "CUELLO REDONDO",
+     "tipo": "LARGA"
+    },
+    {
+     "talla": "EXTRA GRANDE",
+     "color": "ROJO",
+     "forma": "CUELLO REDONDO",
+     "tipo": "LARGA"
+    }
+   ]
+  },
+  {
+   "nombre": "VEGA ORTIZ PEDRO",
+   "planta": "VELADORAS",
+   "depto": "REPARTO",
+   "puesto": "OPERADOR",
+   "genero": "CABALLERO",
+   "bota": "29",
+   "nota": "Sin dotación",
+   "dot": false,
+   "juegos": [
+    {
+     "talla": "GRANDE",
+     "color": "ROJO",
+     "forma": "CUELLO REDONDO",
+     "tipo": "LARGA"
+    },
+    {
+     "talla": "GRANDE",
+     "color": "ROJO",
+     "forma": "CUELLO REDONDO",
+     "tipo": "LARGA"
+    },
+    {
+     "talla": "GRANDE",
+     "color": "ROJO",
+     "forma": "CUELLO REDONDO",
+     "tipo": "LARGA"
+    }
+   ]
+  },
+  {
+   "nombre": "GARCIA DIAZ CARMEN",
+   "planta": "VELADORAS",
+   "depto": "PRODUCCION",
+   "puesto": "MAQUINAS",
+   "genero": "DAMA",
+   "bota": "27",
+   "nota": "",
+   "dot": true,
+   "juegos": [
+    {
+     "talla": "EXTRA GRANDE",
+     "color": "GRIS OXFORD",
+     "forma": "POLO",
+     "tipo": "CORTA"
+    },
+    {
+     "talla": "EXTRA GRANDE",
+     "color": "GRIS OXFORD",
+     "forma": "POLO",
+     "tipo": "CORTA"
+    },
+    {
+     "talla": "EXTRA GRANDE",
+     "color": "GRIS OXFORD",
+     "forma": "POLO",
+     "tipo": "CORTA"
+    }
+   ]
+  },
+  {
+   "nombre": "AGUILAR NAVARRO OSCAR",
+   "planta": "VELADORAS",
+   "depto": "REPARTO",
+   "puesto": "OPERADOR",
+   "genero": "CABALLERO",
+   "bota": "22",
+   "nota": "",
+   "dot": true,
+   "juegos": [
+    {
+     "talla": "GRANDE",
+     "color": "GRIS OXFORD",
+     "forma": "CAMISETA",
+     "tipo": "CORTA"
+    },
+    {
+     "talla": "GRANDE",
+     "color": "GRIS OXFORD",
+     "forma": "CAMISETA",
+     "tipo": "CORTA"
+    },
+    {
+     "talla": "GRANDE",
+     "color": "GRIS OXFORD",
+     "forma": "CAMISETA",
+     "tipo": "CORTA"
+    }
+   ]
+  },
+  {
+   "nombre": "REYES SILVA JORGE",
+   "planta": "VELADORAS",
+   "depto": "ADMINISTRATIVO",
+   "puesto": "AUXILIAR DE OFICINA",
+   "genero": "CABALLERO",
+   "bota": "N/A",
+   "nota": "Sin dotación",
+   "dot": false,
+   "juegos": [
+    {
+     "talla": "EXTRA GRANDE",
+     "color": "AZUL REY",
+     "forma": "POLO",
+     "tipo": "CORTA"
+    },
+    {
+     "talla": "EXTRA GRANDE",
+     "color": "AZUL REY",
+     "forma": "POLO",
+     "tipo": "CORTA"
+    },
+    {
+     "talla": "EXTRA GRANDE",
+     "color": "AZUL REY",
+     "forma": "POLO",
+     "tipo": "CORTA"
+    }
+   ]
+  },
+  {
+   "nombre": "ORTIZ RAMIREZ ANA",
+   "planta": "VELADORAS",
+   "depto": "PRODUCCION",
+   "puesto": "MAQUINAS",
+   "genero": "DAMA",
+   "bota": "24",
+   "nota": "Sin dotación",
+   "dot": false,
+   "juegos": [
+    {
+     "talla": "EXTRA GRANDE",
+     "color": "GRIS OXFORD",
+     "forma": "CAMISETA",
+     "tipo": "LARGA"
+    },
+    {
+     "talla": "EXTRA GRANDE",
+     "color": "GRIS OXFORD",
+     "forma": "CAMISETA",
+     "tipo": "LARGA"
+    },
+    {
+     "talla": "EXTRA GRANDE",
+     "color": "GRIS OXFORD",
+     "forma": "CAMISETA",
+     "tipo": "LARGA"
+    }
+   ]
+  },
+  {
+   "nombre": "MENDOZA VEGA RAUL",
+   "planta": "VELADORAS",
+   "depto": "ALMACEN",
+   "puesto": "ALMACEN",
+   "genero": "CABALLERO",
+   "bota": "22",
+   "nota": "Sin dotación",
+   "dot": false,
+   "juegos": [
+    {
+     "talla": "MEDIANA",
+     "color": "AZUL CIELO",
+     "forma": "CAMISETA",
+     "tipo": "CORTA"
+    },
+    {
+     "talla": "MEDIANA",
+     "color": "AZUL CIELO",
+     "forma": "CAMISETA",
+     "tipo": "CORTA"
+    },
+    {
+     "talla": "MEDIANA",
+     "color": "AZUL CIELO",
+     "forma": "CAMISETA",
+     "tipo": "CORTA"
+    }
+   ]
+  },
+  {
+   "nombre": "MORALES ORTIZ MARIA",
+   "planta": "VELADORAS",
+   "depto": "PRODUCCION",
+   "puesto": "AYUDANTE GENERAL",
+   "genero": "DAMA",
+   "bota": "29",
+   "nota": "",
+   "dot": true,
+   "juegos": [
+    {
+     "talla": "GRANDE",
+     "color": "AZUL CIELO",
+     "forma": "CAMISETA",
+     "tipo": "CORTA"
+    },
+    {
+     "talla": "GRANDE",
+     "color": "AZUL CIELO",
+     "forma": "CAMISETA",
+     "tipo": "CORTA"
+    },
+    {
+     "talla": "GRANDE",
+     "color": "AZUL CIELO",
+     "forma": "CAMISETA",
+     "tipo": "CORTA"
+    }
+   ]
+  },
+  {
+   "nombre": "ROJAS ROJAS RAUL",
+   "planta": "VELADORAS",
+   "depto": "PRODUCCION",
+   "puesto": "AYUDANTE GENERAL",
+   "genero": "",
+   "bota": "24",
+   "nota": "",
+   "dot": true,
+   "juegos": [
+    {
+     "talla": "MEDIANA",
+     "color": "AZUL MARINO",
+     "forma": "POLO",
+     "tipo": "LARGA"
+    },
+    {
+     "talla": "MEDIANA",
+     "color": "AZUL MARINO",
+     "forma": "POLO",
+     "tipo": "LARGA"
+    },
+    {
+     "talla": "MEDIANA",
+     "color": "AZUL MARINO",
+     "forma": "POLO",
+     "tipo": "LARGA"
+    }
+   ]
+  },
+  {
+   "nombre": "GARCIA LOPEZ DIANA",
+   "planta": "VELADORAS",
+   "depto": "PRODUCCION",
+   "puesto": "MESAS",
+   "genero": "DAMA",
+   "bota": "24",
+   "nota": "",
+   "dot": true,
+   "juegos": [
+    {
+     "talla": "CHICA",
+     "color": "AZUL MARINO",
+     "forma": "POLO",
+     "tipo": "LARGA"
+    },
+    {
+     "talla": "CHICA",
+     "color": "AZUL MARINO",
+     "forma": "POLO",
+     "tipo": "LARGA"
+    },
+    {
+     "talla": "CHICA",
+     "color": "AZUL MARINO",
+     "forma": "POLO",
+     "tipo": "LARGA"
+    }
+   ]
+  },
+  {
+   "nombre": "AGUILAR VEGA DAVID",
+   "planta": "VELADORAS",
+   "depto": "PRODUCCION",
+   "puesto": "MAQUINAS",
+   "genero": "CABALLERO",
+   "bota": "23",
+   "nota": "",
+   "dot": true,
+   "juegos": [
+    {
+     "talla": "",
+     "color": "",
+     "forma": "",
+     "tipo": ""
+    },
+    {
+     "talla": "",
+     "color": "",
+     "forma": "",
+     "tipo": ""
+    },
+    {
+     "talla": "",
+     "color": "",
+     "forma": "",
+     "tipo": ""
+    }
+   ]
+  },
+  {
+   "nombre": "MORALES NAVARRO LUIS",
+   "planta": "VELADORAS",
+   "depto": "PRODUCCION",
+   "puesto": "MESAS",
+   "genero": "CABALLERO",
+   "bota": "26",
+   "nota": "",
+   "dot": true,
+   "juegos": [
+    {
+     "talla": "GRANDE",
+     "color": "AZUL CIELO",
+     "forma": "CAMISETA",
+     "tipo": "CORTA"
+    },
+    {
+     "talla": "GRANDE",
+     "color": "AZUL CIELO",
+     "forma": "CAMISETA",
+     "tipo": "CORTA"
+    },
+    {
+     "talla": "GRANDE",
+     "color": "AZUL CIELO",
+     "forma": "CAMISETA",
+     "tipo": "CORTA"
+    }
+   ]
+  },
+  {
+   "nombre": "MORALES DIAZ PAOLA",
+   "planta": "VELADORAS",
+   "depto": "MANTENIMIENTO",
+   "puesto": "MANTENIMIENTO",
+   "genero": "DAMA",
+   "bota": "25",
+   "nota": "",
+   "dot": true,
+   "juegos": [
+    {
+     "talla": "GRANDE",
+     "color": "AZUL CIELO",
+     "forma": "CAMISETA",
+     "tipo": "CORTA"
+    },
+    {
+     "talla": "GRANDE",
+     "color": "AZUL CIELO",
+     "forma": "CAMISETA",
+     "tipo": "CORTA"
+    },
+    {
+     "talla": "GRANDE",
+     "color": "AZUL CIELO",
+     "forma": "CAMISETA",
+     "tipo": "CORTA"
+    }
+   ]
+  },
+  {
+   "nombre": "FLORES DIAZ ROSA",
+   "planta": "VELADORAS",
+   "depto": "PRODUCCION",
+   "puesto": "MESAS",
+   "genero": "DAMA",
+   "bota": "27",
+   "nota": "",
+   "dot": true,
+   "juegos": [
+    {
+     "talla": "GRANDE",
+     "color": "GRIS OXFORD",
+     "forma": "CUELLO REDONDO",
+     "tipo": "CORTA"
+    },
+    {
+     "talla": "GRANDE",
+     "color": "GRIS OXFORD",
+     "forma": "CUELLO REDONDO",
+     "tipo": "CORTA"
+    },
+    {
+     "talla": "GRANDE",
+     "color": "GRIS OXFORD",
+     "forma": "CUELLO REDONDO",
+     "tipo": "CORTA"
+    }
+   ]
+  },
+  {
+   "nombre": "VEGA HERNANDEZ PEDRO",
+   "planta": "VELADORAS",
+   "depto": "PRODUCCION",
+   "puesto": "MAQUINAS",
+   "genero": "CABALLERO",
+   "bota": "29",
+   "nota": "",
+   "dot": true,
+   "juegos": [
+    {
+     "talla": "MEDIANA",
+     "color": "GRIS OXFORD",
+     "forma": "CAMISETA",
+     "tipo": "CORTA"
+    },
+    {
+     "talla": "MEDIANA",
+     "color": "GRIS OXFORD",
+     "forma": "CAMISETA",
+     "tipo": "CORTA"
+    },
+    {
+     "talla": "MEDIANA",
+     "color": "GRIS OXFORD",
+     "forma": "CAMISETA",
+     "tipo": "CORTA"
+    }
+   ]
+  },
+  {
+   "nombre": "HERNANDEZ GARCIA RAUL",
+   "planta": "VELADORAS",
+   "depto": "REPARTO",
+   "puesto": "OPERADOR",
+   "genero": "CABALLERO",
+   "bota": "23",
+   "nota": "",
+   "dot": true,
+   "juegos": [
+    {
+     "talla": "MEDIANA",
+     "color": "GRIS OXFORD",
+     "forma": "CAMISETA",
+     "tipo": "LARGA"
+    },
+    {
+     "talla": "MEDIANA",
+     "color": "GRIS OXFORD",
+     "forma": "CAMISETA",
+     "tipo": "LARGA"
+    },
+    {
+     "talla": "MEDIANA",
+     "color": "GRIS OXFORD",
+     "forma": "CAMISETA",
+     "tipo": "LARGA"
+    }
+   ]
+  },
+  {
+   "nombre": "SILVA ROJAS CARLOS",
+   "planta": "VELADORAS",
+   "depto": "ADMINISTRATIVO",
+   "puesto": "ADMINISTRATIVO",
+   "genero": "CABALLERO",
+   "bota": "N/A",
+   "nota": "",
+   "dot": true,
+   "juegos": [
+    {
+     "talla": "CHICA",
+     "color": "AZUL CIELO",
+     "forma": "CAMISETA",
+     "tipo": "LARGA"
+    },
+    {
+     "talla": "CHICA",
+     "color": "AZUL CIELO",
+     "forma": "CAMISETA",
+     "tipo": "LARGA"
+    },
+    {
+     "talla": "CHICA",
+     "color": "AZUL CIELO",
+     "forma": "CAMISETA",
+     "tipo": "LARGA"
+    }
+   ]
+  },
+  {
+   "nombre": "AGUILAR AGUILAR ROSA",
+   "planta": "VELADORAS",
+   "depto": "ADMINISTRATIVO",
+   "puesto": "AUXILIAR DE OFICINA",
+   "genero": "DAMA",
+   "bota": "N/A",
+   "nota": "",
+   "dot": true,
+   "juegos": [
+    {
+     "talla": "MEDIANA",
+     "color": "AZUL MARINO",
+     "forma": "POLO",
+     "tipo": "CORTA"
+    },
+    {
+     "talla": "MEDIANA",
+     "color": "AZUL MARINO",
+     "forma": "POLO",
+     "tipo": "CORTA"
+    },
+    {
+     "talla": "MEDIANA",
+     "color": "AZUL MARINO",
+     "forma": "POLO",
+     "tipo": "CORTA"
+    }
+   ]
+  },
+  {
+   "nombre": "MENDOZA FLORES ANA",
+   "planta": "VELADORAS",
+   "depto": "PRODUCCION",
+   "puesto": "MESAS",
+   "genero": "DAMA",
+   "bota": "28",
+   "nota": "",
+   "dot": true,
+   "juegos": [
+    {
+     "talla": "MEDIANA",
+     "color": "ROJO",
+     "forma": "CUELLO REDONDO",
+     "tipo": "LARGA"
+    },
+    {
+     "talla": "MEDIANA",
+     "color": "ROJO",
+     "forma": "CUELLO REDONDO",
+     "tipo": "LARGA"
+    },
+    {
+     "talla": "MEDIANA",
+     "color": "ROJO",
+     "forma": "CUELLO REDONDO",
+     "tipo": "LARGA"
+    }
+   ]
+  },
+  {
+   "nombre": "VEGA SILVA DIANA",
+   "planta": "ARAMO",
+   "depto": "REPARTO",
+   "puesto": "OPERADOR",
+   "genero": "DAMA",
+   "bota": "29",
+   "nota": "",
+   "dot": true,
+   "juegos": [
+    {
+     "talla": "MEDIANA",
+     "color": "ROJO",
+     "forma": "POLO",
+     "tipo": "CORTA"
+    },
+    {
+     "talla": "MEDIANA",
+     "color": "ROJO",
+     "forma": "POLO",
+     "tipo": "CORTA"
+    },
+    {
+     "talla": "MEDIANA",
+     "color": "ROJO",
+     "forma": "POLO",
+     "tipo": "CORTA"
+    }
+   ]
+  },
+  {
+   "nombre": "RAMIREZ TORRES SOFIA",
+   "planta": "ARAMO",
+   "depto": "PRODUCCION",
+   "puesto": "AYUDANTE GENERAL",
+   "genero": "DAMA",
+   "bota": "23",
+   "nota": "",
+   "dot": true,
+   "juegos": [
+    {
+     "talla": "CHICA",
+     "color": "AZUL REY",
+     "forma": "CAMISETA",
+     "tipo": "LARGA"
+    },
+    {
+     "talla": "CHICA",
+     "color": "AZUL REY",
+     "forma": "CAMISETA",
+     "tipo": "LARGA"
+    },
+    {
+     "talla": "CHICA",
+     "color": "AZUL REY",
+     "forma": "CAMISETA",
+     "tipo": "LARGA"
+    }
+   ]
+  },
+  {
+   "nombre": "RUIZ FLORES ELENA",
+   "planta": "ARAMO",
+   "depto": "PRODUCCION",
+   "puesto": "MESAS",
+   "genero": "DAMA",
+   "bota": "25",
+   "nota": "",
+   "dot": true,
+   "juegos": [
+    {
+     "talla": "CHICA",
+     "color": "AZUL MARINO",
+     "forma": "CUELLO REDONDO",
+     "tipo": "LARGA"
+    },
+    {
+     "talla": "CHICA",
+     "color": "AZUL MARINO",
+     "forma": "CUELLO REDONDO",
+     "tipo": "LARGA"
+    },
+    {
+     "talla": "CHICA",
+     "color": "AZUL MARINO",
+     "forma": "CUELLO REDONDO",
+     "tipo": "LARGA"
+    }
+   ]
+  },
+  {
+   "nombre": "DIAZ CRUZ DAVID",
+   "planta": "ARAMO",
+   "depto": "PRODUCCION",
+   "puesto": "MESAS",
+   "genero": "CABALLERO",
+   "bota": "24",
+   "nota": "",
+   "dot": true,
+   "juegos": [
+    {
+     "talla": "GRANDE",
+     "color": "ROJO",
+     "forma": "POLO",
+     "tipo": "LARGA"
+    },
+    {
+     "talla": "GRANDE",
+     "color": "ROJO",
+     "forma": "POLO",
+     "tipo": "LARGA"
+    },
+    {
+     "talla": "GRANDE",
+     "color": "ROJO",
+     "forma": "POLO",
+     "tipo": "LARGA"
+    }
+   ]
+  },
+  {
+   "nombre": "SILVA CASTILLO CARLOS",
+   "planta": "ARAMO",
+   "depto": "ADMINISTRATIVO",
+   "puesto": "AUXILIAR DE OFICINA",
+   "genero": "CABALLERO",
+   "bota": "N/A",
+   "nota": "Sin dotación",
+   "dot": false,
+   "juegos": [
+    {
+     "talla": "",
+     "color": "",
+     "forma": "",
+     "tipo": ""
+    },
+    {
+     "talla": "",
+     "color": "",
+     "forma": "",
+     "tipo": ""
+    },
+    {
+     "talla": "",
+     "color": "",
+     "forma": "",
+     "tipo": ""
+    }
+   ]
+  },
+  {
+   "nombre": "SILVA RUIZ LAURA",
+   "planta": "ARAMO",
+   "depto": "PRODUCCION",
+   "puesto": "MAQUINAS",
+   "genero": "DAMA",
+   "bota": "28",
+   "nota": "",
+   "dot": true,
+   "juegos": [
+    {
+     "talla": "MEDIANA",
+     "color": "AZUL CIELO",
+     "forma": "CAMISETA",
+     "tipo": "LARGA"
+    },
+    {
+     "talla": "MEDIANA",
+     "color": "AZUL CIELO",
+     "forma": "CAMISETA",
+     "tipo": "LARGA"
+    },
+    {
+     "talla": "MEDIANA",
+     "color": "AZUL CIELO",
+     "forma": "CAMISETA",
+     "tipo": "LARGA"
+    }
+   ]
+  },
+  {
+   "nombre": "VEGA CASTILLO LAURA",
+   "planta": "ARAMO",
+   "depto": "ADMINISTRATIVO",
+   "puesto": "ADMINISTRATIVO",
+   "genero": "DAMA",
+   "bota": "N/A",
+   "nota": "",
+   "dot": true,
+   "juegos": [
+    {
+     "talla": "EXTRA GRANDE",
+     "color": "GRIS OXFORD",
+     "forma": "CAMISETA",
+     "tipo": "CORTA"
+    },
+    {
+     "talla": "EXTRA GRANDE",
+     "color": "GRIS OXFORD",
+     "forma": "CAMISETA",
+     "tipo": "CORTA"
+    },
+    {
+     "talla": "EXTRA GRANDE",
+     "color": "GRIS OXFORD",
+     "forma": "CAMISETA",
+     "tipo": "CORTA"
+    }
+   ]
+  },
+  {
+   "nombre": "DIAZ HERNANDEZ CARLOS",
+   "planta": "ARAMO",
+   "depto": "ALMACEN",
+   "puesto": "ALMACEN",
+   "genero": "CABALLERO",
+   "bota": "22",
+   "nota": "",
+   "dot": true,
+   "juegos": [
+    {
+     "talla": "CHICA",
+     "color": "AZUL MARINO",
+     "forma": "CUELLO REDONDO",
+     "tipo": "LARGA"
+    },
+    {
+     "talla": "CHICA",
+     "color": "AZUL MARINO",
+     "forma": "CUELLO REDONDO",
+     "tipo": "LARGA"
+    },
+    {
+     "talla": "CHICA",
+     "color": "AZUL MARINO",
+     "forma": "CUELLO REDONDO",
+     "tipo": "LARGA"
+    }
+   ]
+  },
+  {
+   "nombre": "MORALES RAMIREZ CARMEN",
+   "planta": "VILAFLOR",
+   "depto": "MANTENIMIENTO",
+   "puesto": "MANTENIMIENTO",
+   "genero": "DAMA",
+   "bota": "22",
+   "nota": "",
+   "dot": true,
+   "juegos": [
+    {
+     "talla": "EXTRA GRANDE",
+     "color": "AZUL REY",
+     "forma": "POLO",
+     "tipo": "LARGA"
+    },
+    {
+     "talla": "EXTRA GRANDE",
+     "color": "AZUL REY",
+     "forma": "POLO",
+     "tipo": "LARGA"
+    },
+    {
+     "talla": "EXTRA GRANDE",
+     "color": "AZUL REY",
+     "forma": "POLO",
+     "tipo": "LARGA"
+    }
+   ]
+  },
+  {
+   "nombre": "MENDOZA HERNANDEZ ELENA",
+   "planta": "VILAFLOR",
+   "depto": "ALMACEN",
+   "puesto": "ALMACEN",
+   "genero": "DAMA",
+   "bota": "26",
+   "nota": "",
+   "dot": true,
+   "juegos": [
+    {
+     "talla": "CHICA",
+     "color": "ROJO",
+     "forma": "POLO",
+     "tipo": "CORTA"
+    },
+    {
+     "talla": "CHICA",
+     "color": "ROJO",
+     "forma": "POLO",
+     "tipo": "CORTA"
+    },
+    {
+     "talla": "CHICA",
+     "color": "ROJO",
+     "forma": "POLO",
+     "tipo": "CORTA"
+    }
+   ]
+  },
+  {
+   "nombre": "LOPEZ CASTILLO ANDRES",
+   "planta": "VILAFLOR",
+   "depto": "PRODUCCION",
+   "puesto": "MAQUINAS",
+   "genero": "CABALLERO",
+   "bota": "23",
+   "nota": "",
+   "dot": true,
+   "juegos": [
+    {
+     "talla": "CHICA",
+     "color": "ROJO",
+     "forma": "CAMISETA",
+     "tipo": "CORTA"
+    },
+    {
+     "talla": "CHICA",
+     "color": "ROJO",
+     "forma": "CAMISETA",
+     "tipo": "CORTA"
+    },
+    {
+     "talla": "CHICA",
+     "color": "ROJO",
+     "forma": "CAMISETA",
+     "tipo": "CORTA"
+    }
+   ]
+  },
+  {
+   "nombre": "MARTINEZ TORRES PEDRO",
+   "planta": "VILAFLOR",
+   "depto": "ALMACEN",
+   "puesto": "ALMACEN",
+   "genero": "CABALLERO",
+   "bota": "26",
+   "nota": "",
+   "dot": true,
+   "juegos": [
+    {
+     "talla": "MEDIANA",
+     "color": "AZUL REY",
+     "forma": "CUELLO REDONDO",
+     "tipo": "CORTA"
+    },
+    {
+     "talla": "MEDIANA",
+     "color": "AZUL REY",
+     "forma": "CUELLO REDONDO",
+     "tipo": "CORTA"
+    },
+    {
+     "talla": "MEDIANA",
+     "color": "AZUL REY",
+     "forma": "CUELLO REDONDO",
+     "tipo": "CORTA"
+    }
+   ]
+  },
+  {
+   "nombre": "MORALES MARTINEZ MARIA",
+   "planta": "VILAFLOR",
+   "depto": "PRODUCCION",
+   "puesto": "AYUDANTE GENERAL",
+   "genero": "",
+   "bota": "29",
+   "nota": "",
+   "dot": true,
+   "juegos": [
+    {
+     "talla": "MEDIANA",
+     "color": "ROJO",
+     "forma": "CUELLO REDONDO",
+     "tipo": "CORTA"
+    },
+    {
+     "talla": "MEDIANA",
+     "color": "ROJO",
+     "forma": "CUELLO REDONDO",
+     "tipo": "CORTA"
+    },
+    {
+     "talla": "MEDIANA",
+     "color": "ROJO",
+     "forma": "CUELLO REDONDO",
+     "tipo": "CORTA"
+    }
+   ]
+  },
+  {
+   "nombre": "NAVARRO CRUZ RAUL",
+   "planta": "VILAFLOR",
+   "depto": "ALMACEN",
+   "puesto": "ALMACEN",
+   "genero": "CABALLERO",
+   "bota": "28",
+   "nota": "",
+   "dot": true,
+   "juegos": [
+    {
+     "talla": "MEDIANA",
+     "color": "AZUL REY",
+     "forma": "POLO",
+     "tipo": "CORTA"
+    },
+    {
+     "talla": "MEDIANA",
+     "color": "AZUL REY",
+     "forma": "POLO",
+     "tipo": "CORTA"
+    },
+    {
+     "talla": "MEDIANA",
+     "color": "AZUL REY",
+     "forma": "POLO",
+     "tipo": "CORTA"
+    }
+   ]
+  },
+  {
+   "nombre": "RAMIREZ LOPEZ LAURA",
+   "planta": "OBRA",
+   "depto": "ADMINISTRATIVO",
+   "puesto": "AUXILIAR DE OFICINA",
+   "genero": "DAMA",
+   "bota": "N/A",
+   "nota": "",
+   "dot": true,
+   "juegos": [
+    {
+     "talla": "CHICA",
+     "color": "AZUL MARINO",
+     "forma": "CAMISETA",
+     "tipo": "LARGA"
+    },
+    {
+     "talla": "CHICA",
+     "color": "AZUL MARINO",
+     "forma": "CAMISETA",
+     "tipo": "LARGA"
+    },
+    {
+     "talla": "CHICA",
+     "color": "AZUL MARINO",
+     "forma": "CAMISETA",
+     "tipo": "LARGA"
+    }
+   ]
+  },
+  {
+   "nombre": "AGUILAR RUIZ JORGE",
+   "planta": "OBRA",
+   "depto": "PRODUCCION",
+   "puesto": "MESAS",
+   "genero": "CABALLERO",
+   "bota": "27",
+   "nota": "",
+   "dot": true,
+   "juegos": [
+    {
+     "talla": "EXTRA GRANDE",
+     "color": "AZUL MARINO",
+     "forma": "CUELLO REDONDO",
+     "tipo": "LARGA"
+    },
+    {
+     "talla": "EXTRA GRANDE",
+     "color": "AZUL MARINO",
+     "forma": "CUELLO REDONDO",
+     "tipo": "LARGA"
+    },
+    {
+     "talla": "EXTRA GRANDE",
+     "color": "AZUL MARINO",
+     "forma": "CUELLO REDONDO",
+     "tipo": "LARGA"
+    }
+   ]
+  },
+  {
+   "nombre": "RUIZ MARTINEZ JORGE",
+   "planta": "OBRA",
+   "depto": "PRODUCCION",
+   "puesto": "MESAS",
+   "genero": "CABALLERO",
+   "bota": "25",
+   "nota": "Sin dotación",
+   "dot": false,
+   "juegos": [
+    {
+     "talla": "EXTRA GRANDE",
+     "color": "AZUL MARINO",
+     "forma": "CUELLO REDONDO",
+     "tipo": "LARGA"
+    },
+    {
+     "talla": "EXTRA GRANDE",
+     "color": "AZUL MARINO",
+     "forma": "CUELLO REDONDO",
+     "tipo": "LARGA"
+    },
+    {
+     "talla": "EXTRA GRANDE",
+     "color": "AZUL MARINO",
+     "forma": "CUELLO REDONDO",
+     "tipo": "LARGA"
+    }
+   ]
+  },
+  {
+   "nombre": "HERNANDEZ MORALES LAURA",
+   "planta": "OBRA",
+   "depto": "PRODUCCION",
+   "puesto": "AYUDANTE GENERAL",
+   "genero": "DAMA",
+   "bota": "23",
+   "nota": "Sin dotación",
+   "dot": false,
+   "juegos": [
+    {
+     "talla": "CHICA",
+     "color": "AZUL REY",
+     "forma": "CUELLO REDONDO",
+     "tipo": "CORTA"
+    },
+    {
+     "talla": "CHICA",
+     "color": "AZUL REY",
+     "forma": "CUELLO REDONDO",
+     "tipo": "CORTA"
+    },
+    {
+     "talla": "CHICA",
+     "color": "AZUL REY",
+     "forma": "CUELLO REDONDO",
+     "tipo": "CORTA"
+    }
+   ]
+  }
+ ],
+ "inc": [
+  {
+   "emp": 33,
+   "fecha": "2026-09-22",
+   "tipo": "Vacaciones",
+   "obs": ""
+  },
+  {
+   "emp": 24,
+   "fecha": "2026-10-24",
+   "tipo": "Incapacidad",
+   "obs": ""
+  },
+  {
+   "emp": 9,
+   "fecha": "2026-10-24",
+   "tipo": "Vacaciones",
+   "obs": ""
+  },
+  {
+   "emp": 9,
+   "fecha": "2026-09-27",
+   "tipo": "Vacaciones",
+   "obs": ""
+  },
+  {
+   "emp": 27,
+   "fecha": "2026-11-23",
+   "tipo": "Vacaciones",
+   "obs": ""
+  },
+  {
+   "emp": 8,
+   "fecha": "2026-11-25",
+   "tipo": "Vacaciones",
+   "obs": ""
+  },
+  {
+   "emp": 36,
+   "fecha": "2026-09-27",
+   "tipo": "Vacaciones",
+   "obs": ""
+  },
+  {
+   "emp": 14,
+   "fecha": "2026-09-01",
+   "tipo": "Falta",
+   "obs": ""
+  },
+  {
+   "emp": 8,
+   "fecha": "2026-11-12",
+   "tipo": "Falta",
+   "obs": ""
+  },
+  {
+   "emp": 24,
+   "fecha": "2026-10-18",
+   "tipo": "Falta",
+   "obs": ""
+  },
+  {
+   "emp": 1,
+   "fecha": "2026-11-18",
+   "tipo": "Retardo",
+   "obs": ""
+  },
+  {
+   "emp": 31,
+   "fecha": "2026-10-01",
+   "tipo": "Incapacidad",
+   "obs": ""
+  }
+ ]
+}
