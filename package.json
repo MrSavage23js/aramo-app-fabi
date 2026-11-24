@@ -1,28 +1,11 @@
 {
   "name": "aramo-personal-dotacion",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "private": true,
-  "description": "Control de personal, dotación (uniformes y botas) e incidencias - Grupo Aramo",
-  "main": "server.js",
-  "engines": {
-    "node": ">=18.18"
-  },
+  "description": "Control de personal, dotación (uniformes y botas) e incidencias - Grupo Aramo. Página estática (GitHub Pages) + Supabase.",
   "scripts": {
-    "start": "node server.js",
-    "dev": "node --watch server.js",
     "test": "node --test",
-    "check": "node --check server.js && node --check src/app.js && node --check public/js/app.js && node --check public/js/login.js",
-    "db:init": "node scripts/init-db.js",
-    "user:add": "node scripts/user.js add",
-    "user:passwd": "node scripts/user.js passwd",
-    "user:list": "node scripts/user.js list",
-    "user:disable": "node scripts/user.js disable",
-    "user:enable": "node scripts/user.js enable"
-  },
-  "dependencies": {
-    "dotenv": "^16.4.5",
-    "express": "^4.21.2",
-    "helmet": "^8.0.0",
-    "mysql2": "^3.11.0"
+    "check": "node --check js/app.js && node --check js/logic.js && node --check js/config.js",
+    "serve": "npx --yes http-server -c-1 -p 8080 ."
   }
 }

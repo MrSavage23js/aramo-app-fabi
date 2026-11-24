@@ -1,15 +1,9 @@
-# Dependencias
 node_modules/
 
-# Configuración local y secretos
-.env
-.env.*
-!.env.example
-
-# DATOS REALES DEL PERSONAL — nunca subir al repositorio
+# DATOS REALES DEL PERSONAL — nunca subir al repositorio (es público)
 *.local.json
+respaldo*.json
 respaldo*.sql
-*.sql.gz
 backups/
 
 # Sistema / editores
@@ -18,4 +12,3 @@ Thumbs.db
 .vscode/
 .idea/
 *.log
-npm-debug.log*
